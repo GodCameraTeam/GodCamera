@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <android.support.v4.view.ViewPager
+        android:id="@+id/id_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="19"
+        />
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/buttomcanvas"
+        android:orientation="horizontal" 
+        android:layout_weight="1">
+    <ImageButton
+        android:id="@+id/ImgButCamera"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/auto_meihua_filter_selected"
+        android:layout_marginLeft="5dip" 
+        android:layout_marginTop="5dip" 
+        android:layout_marginRight="5dip" 
+        android:layout_marginBottom="5dip"
+         android:background="#00000000"
+                   
+       />
+    <ImageButton
+        android:id="@+id/ImgButPicture"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/auto_meihua_filter_selected"
+        android:layout_marginLeft="5dip" 
+        android:layout_marginTop="5dip" 
+        android:layout_marginRight="5dip" 
+        android:layout_marginBottom="5dip"
+         android:background="#00000000"
+                   
+       />
+     <ImageButton
+        android:id="@+id/ImgButPerson"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/auto_meihua_filter_selected"
+        android:layout_marginLeft="5dip" 
+        android:layout_marginTop="5dip" 
+        android:layout_marginRight="5dip" 
+        android:layout_marginBottom="5dip"
+         android:background="#00000000"
+                   
+       />
+     
+    </LinearLayout>
+</LinearLayout>
