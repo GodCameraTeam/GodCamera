@@ -74,7 +74,8 @@ containing a value of this type.
         public static final int t4=0x7f020019;
         public static final int tab_bg=0x7f02001a;
         public static final int takepic=0x7f02001b;
-        public static final int turn=0x7f02001c;
+        public static final int triangle=0x7f02001c;
+        public static final int turn=0x7f02001d;
     }
     public static final class id {
         public static final int Imgbutboys=0x7f08000b;
@@ -83,7 +84,7 @@ containing a value of this type.
         public static final int Imgbutgirls=0x7f08000a;
         public static final int Imgbutmovie=0x7f08000d;
         public static final int Imgbuttogethor=0x7f08000c;
-        public static final int action_settings=0x7f080012;
+        public static final int action_settings=0x7f080015;
         public static final int buttomcamera=0x7f080001;
         public static final int buttompicture=0x7f080002;
         public static final int buttomuser=0x7f080003;
@@ -92,7 +93,10 @@ containing a value of this type.
         public static final int id_index_gallery_item_text=0x7f080011;
         public static final int id_recyclerview_horizontal=0x7f080007;
         public static final int id_viewpager =0x7f080000;
+        public static final int item_icon=0x7f080012;
+        public static final int item_image=0x7f080014;
         public static final int mView=0x7f080005;
+        public static final int more_item_text=0x7f080013;
         public static final int preview=0x7f080004;
         public static final int relativeLayout=0x7f080008;
         public static final int relativeLayout2=0x7f080006;
@@ -103,6 +107,8 @@ containing a value of this type.
         public static final int camera_activity_main=0x7f030002;
         public static final int camera_styles=0x7f030003;
         public static final int item=0x7f030004;
+        public static final int person=0x7f030005;
+        public static final int person_item=0x7f030006;
     }
     public static final class menu {
         public static final int main=0x7f070000;
@@ -111,9 +117,14 @@ containing a value of this type.
         public static final int action_settings=0x7f060000;
         public static final int app_name=0x7f060001;
         public static final int hello_world=0x7f060002;
-        public static final int strI=0x7f060003;
-        public static final int strcamera=0x7f060004;
-        public static final int strpicture=0x7f060005;
+        public static final int item1=0x7f060003;
+        public static final int item2=0x7f060004;
+        public static final int item3=0x7f060005;
+        public static final int item4=0x7f060006;
+        public static final int item5=0x7f060007;
+        public static final int strI=0x7f060008;
+        public static final int strcamera=0x7f060009;
+        public static final int strpicture=0x7f06000a;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
