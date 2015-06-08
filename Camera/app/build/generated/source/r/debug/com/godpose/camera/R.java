@@ -48,41 +48,61 @@ containing a value of this type.
     public static final class drawable {
         public static final int album_empty=0x7f020000;
         public static final int auto_meihua_filter_selected=0x7f020001;
-        public static final int buttom=0x7f020002;
-        public static final int buttomcanvas=0x7f020003;
-        public static final int ic_launcher=0x7f020004;
-        public static final int img_filter_natie=0x7f020005;
-        public static final int item_bg_blue_a=0x7f020006;
-        public static final int item_bg_green_a=0x7f020007;
-        public static final int item_bg_orange_a=0x7f020008;
-        public static final int item_bg_pink_a=0x7f020009;
-        public static final int item_bg_purple_a=0x7f02000a;
-        public static final int item_bg_red_a=0x7f02000b;
-        public static final int item_bg_shadow=0x7f02000c;
-        public static final int menu_camera=0x7f02000d;
-        public static final int menu_photo=0x7f02000e;
-        public static final int menu_user=0x7f02000f;
-        public static final int mtxx_camera=0x7f020010;
-        public static final int nicegirl=0x7f020011;
-        public static final int tab_bg=0x7f020012;
+        public static final int back=0x7f020002;
+        public static final int buttom=0x7f020003;
+        public static final int buttomcanvas=0x7f020004;
+        public static final int demo1=0x7f020005;
+        public static final int demo2=0x7f020006;
+        public static final int hat=0x7f020007;
+        public static final int hat2=0x7f020008;
+        public static final int ic_face_find_2=0x7f020009;
+        public static final int ic_launcher=0x7f02000a;
+        public static final int img_filter_natie=0x7f02000b;
+        public static final int item_bg_blue_a=0x7f02000c;
+        public static final int item_bg_green_a=0x7f02000d;
+        public static final int item_bg_orange_a=0x7f02000e;
+        public static final int item_bg_pink_a=0x7f02000f;
+        public static final int item_bg_purple_a=0x7f020010;
+        public static final int item_bg_red_a=0x7f020011;
+        public static final int item_bg_shadow=0x7f020012;
+        public static final int man1=0x7f020013;
+        public static final int menu_camera=0x7f020014;
+        public static final int menu_photo=0x7f020015;
+        public static final int menu_user=0x7f020016;
+        public static final int mtxx_camera=0x7f020017;
+        public static final int nicegirl=0x7f020018;
+        public static final int t4=0x7f020019;
+        public static final int tab_bg=0x7f02001a;
+        public static final int takepic=0x7f02001b;
+        public static final int turn=0x7f02001c;
     }
     public static final class id {
-        public static final int Imgbutboys=0x7f080005;
-        public static final int Imgbutfun=0x7f080008;
-        public static final int Imgbutgif=0x7f080009;
-        public static final int Imgbutgirls=0x7f080004;
-        public static final int Imgbutmovie=0x7f080007;
-        public static final int Imgbuttogethor=0x7f080006;
-        public static final int action_settings=0x7f08000a;
+        public static final int Imgbutboys=0x7f08000b;
+        public static final int Imgbutfun=0x7f08000e;
+        public static final int Imgbutgif=0x7f08000f;
+        public static final int Imgbutgirls=0x7f08000a;
+        public static final int Imgbutmovie=0x7f08000d;
+        public static final int Imgbuttogethor=0x7f08000c;
+        public static final int action_settings=0x7f080012;
         public static final int buttomcamera=0x7f080001;
         public static final int buttompicture=0x7f080002;
         public static final int buttomuser=0x7f080003;
+        public static final int button=0x7f080009;
+        public static final int id_index_gallery_item_image=0x7f080010;
+        public static final int id_index_gallery_item_text=0x7f080011;
+        public static final int id_recyclerview_horizontal=0x7f080007;
         public static final int id_viewpager =0x7f080000;
+        public static final int mView=0x7f080005;
+        public static final int preview=0x7f080004;
+        public static final int relativeLayout=0x7f080008;
+        public static final int relativeLayout2=0x7f080006;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int camera=0x7f030001;
-        public static final int camera_styles=0x7f030002;
+        public static final int camera_activity_main=0x7f030002;
+        public static final int camera_styles=0x7f030003;
+        public static final int item=0x7f030004;
     }
     public static final class menu {
         public static final int main=0x7f070000;
