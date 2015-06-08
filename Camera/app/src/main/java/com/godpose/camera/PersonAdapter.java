@@ -50,15 +50,15 @@ public class PersonAdapter extends BaseAdapter{
         }
         ImageView icon = (ImageView) convertView.findViewById(R.id.item_icon);//设置每个条目的图标
         if(0 == position){
-          //  icon.setBackgroundResource(R.drawable.icon_square);
+            icon.setBackgroundResource(R.drawable.icon_share);
         }else if(1 == position){
-          //  icon.setBackgroundResource(android.R.drawable.ic_menu_share);
+            icon.setBackgroundResource(R.drawable.icon_person);
         }else if(2 == position){
-          //  icon.setBackgroundResource(R.drawable.icon_setting);
+            icon.setBackgroundResource(R.drawable.icon_password);
         }else if(3 == position){
-          //  icon.setBackgroundResource(android.R.drawable.ic_menu_edit);
+            icon.setBackgroundResource(R.drawable.icon_setting);
         }else{
-          //  icon.setBackgroundResource(R.drawable.menu_exit);
+            icon.setBackgroundResource(R.drawable.icon_us);
         }
         TextView text = (TextView) convertView.findViewById(R.id.more_item_text); //设置条目的文字说明
         text.setText(more_list.get(position));

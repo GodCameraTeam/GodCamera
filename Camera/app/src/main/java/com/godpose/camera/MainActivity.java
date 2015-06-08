@@ -10,6 +10,7 @@ import com.godpose.camera.R;
 import android.R.menu;
 import android.app.Activity;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -175,5 +176,18 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 		Intent intent1;
 		intent1 = new Intent(this,CameraActivity.class);
 		startActivity(intent1);
+	}
+	@Override
+	public void onConfigurationChanged(Configuration newConfig)
+	{
+		super.onConfigurationChanged(newConfig);
+		if (this.getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE)
+		{
+//land
+		}
+		else if (this.getResources().getConfiguration().orientation == Configuration.ORIENTATION_PORTRAIT)
+		{
+//port
+		}
 	}
 }

@@ -20,7 +20,9 @@
         android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" >
         <activity
             android:name="com.godpose.camera.MainActivity"
-            android:label="@string/app_name" >
+            android:configChanges="orientation|keyboardHidden|screenSize|navigation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
