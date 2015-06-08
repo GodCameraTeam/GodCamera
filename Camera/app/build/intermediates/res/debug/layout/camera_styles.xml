@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/img_filter_natie">
+    
+    <LinearLayout 
+        android:layout_width = "match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"   
+        android:layout_marginTop="100dp" 
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="50dp"
+    >
+    
+       <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight= "1"
+        android:orientation="horizontal">
+        
+              <ImageButton
+                   android:id="@+id/Imgbutgirls"
+                   android:layout_width="0dp"
+                   android:layout_weight="1"
+                   android:layout_height="wrap_content"
+                   android:src="@drawable/item_bg_blue_a"
+                   android:background="#00000000"
+                   
+            
+                   />
+              <ImageButton
+                   android:id="@+id/Imgbutboys"
+                   android:layout_width="0dp"
+                   android:layout_weight="1"
+                   android:layout_height="wrap_content"
+                   android:src="@drawable/item_bg_green_a"
+                   android:background="#00000000"
+                   
+                   
+                   />
+               </LinearLayout>
+               
+       <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight= "1"
+        android:orientation="horizontal">
+        
+              <ImageButton
+                   android:id="@+id/Imgbuttogethor"
+                   android:layout_width="0dp"
+                   android:layout_weight="1"
+                   android:layout_height="wrap_content"
+                   android:src="@drawable/item_bg_orange_a"
+                    android:background="#00000000"
+                   
+            
+                   />
+              <ImageButton
+                   android:id="@+id/Imgbutmovie"
+                   android:layout_width="0dp"
+                   android:layout_weight="1"
+                   android:layout_height="wrap_content"
+                   android:src="@drawable/item_bg_pink_a"
+                    android:background="#00000000"
+                   
+                   />
+               </LinearLayout>
+               
+       <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight= "1"
+        android:orientation="horizontal">
+        
+              <ImageButton
+                   android:id="@+id/Imgbutfun"
+                   android:layout_width="0dp"
+                   android:layout_weight="1"
+                   android:layout_height="wrap_content"
+                   android:src="@drawable/item_bg_red_a"
+                    android:background="#00000000"
+                   
+            
+                   />
+              <ImageButton
+                   android:id="@+id/Imgbutgif"
+                   android:layout_width="0dp"
+                   android:layout_weight="1"
+                   android:layout_height="wrap_content"
+                   android:src="@drawable/item_bg_purple_a"
+                    android:background="#00000000"
+                   
+                   />
+               </LinearLayout>
+               
+        </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/Users/chenyee/GodPose/GodPose/Camera/app/src/main/res/layout/camera_styles.xml -->
