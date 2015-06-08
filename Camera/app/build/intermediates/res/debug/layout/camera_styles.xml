@@ -28,7 +28,7 @@
                    android:layout_height="wrap_content"
                    android:src="@drawable/item_bg_blue_a"
                    android:background="#00000000"
-                   
+                   android:onClick="OnGirlClick"
             
                    />
               <ImageButton

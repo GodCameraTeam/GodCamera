@@ -12,7 +12,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.TextView;import com.godpose.camera.R;
+import android.widget.TextView;
+import com.godpose.camera.R;
 
 public class GalleryAdapter extends
         RecyclerView.Adapter<GalleryAdapter.ViewHolder>
@@ -20,8 +21,6 @@ public class GalleryAdapter extends
 
     /**
      * ItemClick的回调接口
-     * @author zhy
-     *
      */
     public interface OnItemClickLitener
     {

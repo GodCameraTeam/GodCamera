@@ -9,6 +9,7 @@ import com.godpose.camera.R;
 
 import android.R.menu;
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -170,5 +171,9 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 			mTabIndicators.get(i).setIconAlpha(0);
 		}
 	}
-
+	public void OnGirlClick(View v){
+		Intent intent1;
+		intent1 = new Intent(this,CameraActivity.class);
+		startActivity(intent1);
+	}
 }
