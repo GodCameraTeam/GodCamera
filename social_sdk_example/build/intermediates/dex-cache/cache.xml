@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_like.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="912dab94fe6a21673d4330b90ee24b393518343b">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_like-9f9d3c1d8ca00f278a7dca353b039aa65d40c804.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_whatsapp.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="408707a8e4f8d1d3ada657aeeaf17d881e30d8f6">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_whatsapp-23936b5a24da2a72f656be2f4d15c3ab9c9290af.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_1-d0c6035367d351fb2ed6ee6d8c56f2bcba81302b.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_comment.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b853f4fa1b1113a2e9ea1713bde9f870dddb2e05">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_comment-b25ec8bf6cb41d3ee9654e77778105f58822a859.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_line.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1f8cb63b9e7a3277ad5096c14620f5913ca7ec0e">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_line-e5336445aa29225aeaf5c8cdadd1f73726321006.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_flickr.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c4fd16cd67a50d9261173be6b4fcb28f95167003">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_flickr-4210d0b109855a2caeab42a40223e75b6d667300.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_1-9ce7d51c1155040a82448a27ee0f3282fb0a479a.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1-87d03f042429904c501d40d967a373edd01cd20d.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2-1f92caf4188e48916102596f0edc7d0d6f620727.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_instagram.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="52c6518c28327fa9b9a6122ece8d392ae47a67a1">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_instagram-e85c0c72719452bb6f128bfc7a3f019ab6887850.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_sms.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f882b1ea613cb16bab42987864d59b9ce1232c8">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_sms-2e816a97db2d55ced85340d16cd9f38ebd7e457f.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_yixin_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f7a17135d619974d42afc87acd1d32258020cd0f">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_yixin_2-e51ac5d58792da6357fe149fd5a702023e69909b.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_tumblr.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="878b6efdfa8bf5bb06347d5d3e2eb5574ed51139">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_tumblr-8e301b8a30040140f3d6c146c30fadbb60f8df56.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_renren_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0ca209d760b28d73bbe444888cdd0c20eeaacbc3">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_renren_1-68a0633d213a4c8ef6d0d11706692831581eabf1.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_renren_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd574d1ead3d089fb270e9a778726d5e890131b5">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_renren_2-87ab3adb294566bb96950399bfc52922d4787e31.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_pocket.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05616ad02062e0a0d81981d77a1992b2685658fc">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_pocket-c15be597e58b514cee10e93f1da4f785eb1d7974.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_scrshot.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8afd739e1c878e7b63cc31fd645ccccd8d6bf344">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_scrshot-e112981a795ac6c15b70b263334d867fd9e3a9c6.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="867513f01b664cd3e13d72fb7b2f68f6359a4750">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_2-756380929ae824c39307a40792d933d44a5087e9.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_email.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c454b3ad270b66a6ca749aa1e0370ff54d16b44e">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_email-72e281f29e5d4a01b768d6cb4ebba324f73b4bdf.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8180c00c6056e1a8e10159f7bf50eac1f4a85449">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_3-4e175dd9b06e8e8200af175be807308f9d3848dc.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_yixin_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_yixin_1-2c93e123862d0ceba9df507cb8015e6570ab64e2.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_facebook_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8de8e9893ff3611e08393586c53755059f64f543">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_facebook_1-71433ad35086a330756856b95b78e10b2214a5d0.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_linkedin.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aade7fbf976e5c795d0c414c1e4a7edb0fc16233">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_linkedin-0c02f8b1df4410323774aea0a2cc482a39063acc.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_actionbarview.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a66c96619cf1e196c1f436f934cda51f9f35f530">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_actionbarview-d2d282395ee2f201ebfca94c13e41f51f7e72ec6.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_UserCenter.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a59f856d4fdeb5951ed7cbd7297b7fc62c0adf46">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_UserCenter-728e4e7eb9e81c6d5cd1570e8ef1637f8ce8b4db.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_1-14728b372e229cb5a358604ec6638a654c8da7a6.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_shake.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6d35228b1eb9307f88998af412a701947be6ced5">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_shake-08d6e351427df52c4fc73b367db8d74eb852e509.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/classes-fdd6de82917a8e9b3682d083b83ba78a5eeaa088.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-cb4238000e960733fb84a583cd5401e6c2224ad2.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_ynote.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b0945bdef964a49b230c74a76391858d0b6686ec">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_ynote-9be9e3da7ac9902e4b0f2c0f84390da463f79129.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_evernote.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="556fdfb13aec502f6904e06d44c82f3ee5ef4661">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_evernote-44e5a0ede350f121b251e86b81160e3955b85ec0.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_pinterest.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01e32e059ae7677b2c48c941980fc8a2aa7beb9b">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_pinterest-0779f59f37f7eaa28b340c151272a5ffddfd0fd9.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8962f50f03ab83787c2c3035d0c79fe79cb0f67d">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_3-59623d5e9b12007bf424841742db4bbe13463ea3.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f282efb6848c2a61bb11d08196a0d9c5b402e1dc.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4aa8d4cde1e2201e5360daaae4bd9fdbf4194d2a">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_2-363c294ad9487e59fe0c00151824f88d839b2446.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-288f9aa71c022c3307b7d24fb314793d8b9d9514.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f11202cb71112f923a80c75d42e029fc53257e9c">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_Sina-37e39c41783c05c89a1aa2442f0824570e1cb036.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_2-0cbc495bdcbe482b781fb4328179c2ac0e73145d.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_facebook_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="21447c5299bf257df1222a58197bb66c58c26589">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_facebook_2-034f98a3a40192e6a0aa1ee061f62fc593c337d6.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03e186fabdab66983e2b2aa42a2b2de7cb37dc4a">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/umeng_social_sdk-0487da22c9e97ec33c08b12046018798f8afc302.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_AtFriends.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a103e2d7c97f1cec8409ba4833850e5295fbb114">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_AtFriends-52ad0e5a5a0696b12469a00c84cb1417f144c56a.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/httpmime-4.1.3-fc3f6fbca7adec734a0328f094a3091da08a6339.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/libs/SocialSDK_kakao.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3f03f71503c4d1e70653786cf94af734cfab1b40">
+        <dex dex="/Users/chenyee/GodPose/GodPose/social_sdk_example/app/build/intermediates/pre-dexed/debug/SocialSDK_kakao-410cab7d9f02a4503588e616d0c43812df0967c7.jar" />
+    </item>
+
+</items>
