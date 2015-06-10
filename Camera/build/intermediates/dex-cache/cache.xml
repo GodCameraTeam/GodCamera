@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/chenyee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="/Users/chenyee/GodPose/GodPose/Camera/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5d4b3c8bb9eae188277877f29d6aa71721561bba.jar" />
-    </item>
-    <item
         jar="/Users/chenyee/GodPose/GodPose/Camera/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -21,6 +14,20 @@
         revision="21.1.2"
         sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
         <dex dex="/Users/chenyee/GodPose/GodPose/Camera/app/build/intermediates/pre-dexed/debug/classes-f15f409cbc51775c4bd7edb38080755d9e826450.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/5.5.3/5d503ec571e2e98d972209afa203f94d11882c15/analytics-5.5.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="/Users/chenyee/GodPose/GodPose/Camera/app/build/intermediates/pre-dexed/debug/analytics-5.5.3-d4cb7bd02fc36a83be7dc46e635e8b50f1fc6702.jar" />
+    </item>
+    <item
+        jar="/Users/chenyee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/chenyee/GodPose/GodPose/Camera/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5d4b3c8bb9eae188277877f29d6aa71721561bba.jar" />
     </item>
     <item
         jar="/Users/chenyee/GodPose/GodPose/Camera/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
