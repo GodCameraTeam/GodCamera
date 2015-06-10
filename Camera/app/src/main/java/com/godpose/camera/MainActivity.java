@@ -24,6 +24,8 @@ import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.ImageButton;
 
+import com.umeng.socialize.sso.UMSsoHandler;
+
 public class MainActivity extends FragmentActivity implements OnClickListener,
                OnPageChangeListener
 {
@@ -190,4 +192,5 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 //port
 		}
 	}
+
 }

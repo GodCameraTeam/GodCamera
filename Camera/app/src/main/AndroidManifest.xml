@@ -21,7 +21,29 @@
 <activity android:configChanges="orientation|keyboard" android:name="com.umeng.socialize.view.CommentActivity" android:theme="@style/Theme.UMDefault"/>
 <activity android:configChanges="orientation|keyboard" android:name="com.umeng.socialize.view.CommentDetail" android:noHistory="true" android:theme="@style/Theme.UMDefault"/>
 <activity android:configChanges="orientation|keyboard" android:name="com.umeng.socialize.view.CommentDetailNoMap" android:noHistory="true" android:theme="@style/Theme.UMDefault"/>
-</application>
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent1104704300" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.connect.common.AssistActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+
+        <!-- 微信回调activity -->
+
+
+    </application>
 
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>

@@ -26,6 +26,7 @@ public class PersonAdapter extends BaseAdapter{
         more_list.add(context.getResources().getString(R.string.item3));
         more_list.add(context.getResources().getString(R.string.item4));
         more_list.add(context.getResources().getString(R.string.item5));
+        more_list.add(context.getResources().getString(R.string.item6));
     }
     @Override
     public int getCount() {
@@ -57,8 +58,11 @@ public class PersonAdapter extends BaseAdapter{
             icon.setBackgroundResource(R.drawable.icon_password);
         }else if(3 == position){
             icon.setBackgroundResource(R.drawable.icon_setting);
-        }else{
+        }else if(4 == position){
             icon.setBackgroundResource(R.drawable.icon_us);
+        }
+        else{
+            icon.setBackgroundResource(R.drawable.icon_share);
         }
         TextView text = (TextView) convertView.findViewById(R.id.more_item_text); //设置条目的文字说明
         text.setText(more_list.get(position));

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.whuliss.camera.test">
+    package="com.godpose.camera.test">
 
-    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="16" />
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="21" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.whuliss.camera"
+                     android:targetPackage="com.godpose.camera"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.whuliss.camera"/>
+                     android:label="Tests for com.godpose.camera"/>
 </manifest>
